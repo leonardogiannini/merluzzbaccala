@@ -4,10 +4,17 @@
 
 BOLDI**BOLDI**BOLDI
 
-[x]
-[ ]
-[ ]
-[x]
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
+
 
 Welcome to My First Repo
 
