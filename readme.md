@@ -4,9 +4,10 @@
 
 BOLDI**BOLDI**BOLDI
 
+- [x]
 - [ ]
 - [ ]
-[x]
+- [x]
 
 Welcome to My First Repo
 
